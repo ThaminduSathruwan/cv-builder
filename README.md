@@ -1,2 +1,3 @@
-# cv-builder
+# Resume Builder App
+
 Create your own CV
